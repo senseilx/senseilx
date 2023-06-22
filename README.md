@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senseilx
 - 👀 I’m interested in conzept art & design
-- 🌱 I’m currently learning game design
+- 🌱 game creation is my style of art
 - 📫 senseilx@outlook.com
 
 <!---
